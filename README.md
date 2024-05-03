@@ -1,2 +1,2 @@
-b'New content update'
+b'New content update'\nNew content update
 New content update
